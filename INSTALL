@@ -1,0 +1,9 @@
+Building CryptoFightClub
+
+See doc/readme-qt.rst for instructions on building CryptoFightClub QT,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of CryptoFightClub.
+
+See doc/build-*.txt for instructions on building cryptofightclubd,
+the intended-for-services, no-graphical-interface, reference
+implementation of CryptoFightClub.
